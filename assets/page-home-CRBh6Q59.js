@@ -68,7 +68,7 @@ function Home() {
           /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-accent", children: "One Speech at a Time." })
         ] }) }),
-        /* @__PURE__ */ jsxRuntimeExports.jsx(FadeIn, { delay: 0.2, children: /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-lg md:text-xl text-secondary/90 mb-10 max-w-2xl leading-relaxed", children: "Synergy Speakers Club is a premier youth public speaking and leadership program designed to build confidence, articulation, and community in students under 18." }) }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx(FadeIn, { delay: 0.2, children: /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-lg md:text-xl text-secondary/90 mb-10 max-w-2xl leading-relaxed", children: "Synergy Speakers Club is a premier youth public speaking and leadership program designed to build confidence, articulation, and community in students." }) }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs(FadeIn, { delay: 0.3, className: "flex flex-wrap items-center gap-4", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsxs(
             Link,
