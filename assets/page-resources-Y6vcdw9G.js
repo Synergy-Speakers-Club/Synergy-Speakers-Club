@@ -5,7 +5,7 @@ function Resources() {
   const faqs = [
     {
       q: "What is a Gavel Club?",
-      a: "A Gavel Club is a Toastmasters International affiliated club specifically designed for groups who may be ineligible for regular Toastmasters membership due to age or other circumstances. Synergy Speakers Club is specifically for youth under 18."
+      a: "A Gavel Club is a Toastmasters International affiliated club specifically designed for groups who may be ineligible for regular Toastmasters membership due to age or other circumstances. Synergy Speakers Club is specifically for the youth."
     },
     {
       q: "How is it different from standard Toastmasters?",
@@ -13,7 +13,7 @@ function Resources() {
     },
     {
       q: "What age group can join?",
-      a: "Synergy Speakers Club is open to students between the ages of 12 and 17. Members must be mature enough to sit through a 2-hour meeting and prepare speeches independently."
+      a: "Synergy Speakers Club is open to all highschool, primary, college students. Members must be mature enough to sit through a 3-hour meeting and prepare speeches independently."
     },
     {
       q: "Do I need prior speaking experience?",
@@ -21,11 +21,11 @@ function Resources() {
     },
     {
       q: "What will I learn?",
-      a: "You will learn how to organize your thoughts, control body language, use vocal variety, speak off-the-cuff, give constructive feedback, and lead a meeting effectively. These are lifelong skills applicable to academics and future careers."
+      a: "You will learn how to organize your thoughts, control body language, use vocal variety, speak off the cuff, give constructive feedback, and lead a meeting effectively. These are lifelong skills applicable to academics and future careers."
     },
     {
       q: "Is there a membership fee?",
-      a: "Yes, there is a nominal fee to cover the cost of the manuals, meeting materials, and club affiliation dues sent to Toastmasters International. Please contact us or visit a meeting for current fee details."
+      a: "Yes, there is a nominal fee of 2000 rupeesto cover the cost of the manuals, meeting materials, and club affiliation dues sent to Toastmasters International. Please contact us or visit a meeting for current fee details."
     },
     {
       q: "How do I join?",
@@ -72,7 +72,7 @@ function Resources() {
               /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "bg-destructive/10 p-3 rounded-lg", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Award, { className: "w-8 h-8 text-destructive" }) }),
               /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-2xl font-bold text-primary", children: "Competent Leadership" })
             ] }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground mb-4", children: "Leadership is learned by doing. This manual tracks your progress across 10 projects as you take on various meeting roles. Skills developed include:" }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground mb-4", children: " This manual tracks your progress across 10 projects as you take on various meeting roles. Skills developed include:" }),
             /* @__PURE__ */ jsxRuntimeExports.jsx("ul", { className: "flex flex-wrap gap-2", children: ["Listening", "Critical Thinking", "Giving Feedback", "Time Management", "Planning & Implementation", "Facilitation", "Motivation", "Mentoring"].map((skill) => /* @__PURE__ */ jsxRuntimeExports.jsx("li", { className: "px-3 py-1 bg-secondary rounded-full text-xs font-semibold text-primary", children: skill }, skill)) })
           ] })
         ] })
