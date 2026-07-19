@@ -211,7 +211,7 @@ function Home() {
         /* @__PURE__ */ jsxRuntimeExports.jsx(
           "img",
           {
-            src: "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=1600",
+            src: "Term 2026 July to December Excom Group Photo.jpeg",
             alt: "Students presenting",
             className: "w-full h-full object-cover opacity-30 mix-blend-overlay"
           }
