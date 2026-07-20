@@ -52,7 +52,7 @@ const excomTeam = [
   {
     name: "Aarav",
     role: "President",
-    photo: "",
+    photo: "Aarav.jpg",
     initials: "A",
     color: "bg-primary",
     bio: [
