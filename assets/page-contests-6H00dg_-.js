@@ -10,7 +10,6 @@ const contests = [
     color: "bg-primary",
     duration: "5–7 minutes",
     level: "Club",
-    date: " Will be announced soon ",
     description: "The flagship contest of the Toastmasters year. Members prepare and deliver an original speech on any topic they are passionate about. This contest is your chance to share a message that truly matters to you.",
     whatToDo: [
       "Prepare an original speech (5–7 minutes) on any topic",
@@ -25,7 +24,6 @@ const contests = [
     color: "bg-destructive",
     duration: "2–3 minutes",
     level: "Club",
-    date: " Will be announced soon ",
     description: "Contestants evaluate the same test speaker and are judged on the quality, balance, and delivery of their feedback. A great evaluator can change a speaker's life — this contest celebrates that skill.",
     whatToDo: [
       "Listen to a 5–7 minute test speech (same for all contestants)",
@@ -41,7 +39,6 @@ const contests = [
     color: "bg-destructive",
     duration: "1–2 minutes",
     level: "Club",
-    date: " Will be announced soon ",
     description: "The ultimate test of impromptu speaking. Each contestant is given a random topic moments before speaking and must deliver a structured, compelling response on the spot. No preparation allowed.",
     whatToDo: [
       "You receive your topic at the lectern — no advance notice",
