@@ -12,7 +12,8 @@ function Meetings() {
     { time: "2:55 PM", title: "Evaluations", desc: "GE conducts the Evaluation Session" },
     { time: "3:10 PM", title: "General Evaluation", desc: "Reports from the General Evaluator giving the meeting an overall assessment." },
     { time: "3:40 PM", title: "Mixed Bag Session", desc: "GOTD conducts the Mixed Bag Session which will consist of three interactive roles played three gaveliers" },
-    { time: ":55 PM", title: "Awards & Closing", desc: "Presiding Officer distributes Certificates, and gives some final announcements before adjournment." }
+    { time: "4:00 PM", title: "Awards & Announcements", desc: "Presiding Officer distributes Certificates, and gives some final announcements before adjournment." },
+    { time: "4:15 PM", title: "Closing", desc: "Presiding Officer adjourns the meeting." }
   ];
   const roles = [
     { icon: MicVocal, name: "Gavelier of the Day", desc: "Acts as the meeting's host and director. Develops organization, time management, and public speaking skills." },
