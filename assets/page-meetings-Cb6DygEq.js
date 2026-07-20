@@ -3,10 +3,11 @@ import { F as FadeIn, S as StaggerContainer, a as StaggerItem } from "./page-hom
 import { aa as Calendar, ab as Clock, ac as MapPin, ad as MicVocal, ae as Timer, af as FilePenLine, ag as Brain, a4 as Users, a3 as CircleCheck } from "./vendor-ui-WQAzzLgx.js";
 function Meetings() {
   const agendaItems = [
-    { time: "10:00 AM", title: "Welcome & Opening", desc: "The Sergeant at Arms calls the meeting to order, followed by the President's welcome." },
-    { time: "10:10 AM", title: "Toastmaster Introduction", desc: "The Toastmaster of the Day takes control, introducing the meeting's theme and the functionary roles." },
-    { time: "10:20 AM", title: "Prepared Speeches", desc: "Members deliver prepared speeches from the Competent Communication manual." },
-    { time: "10:50 AM", title: "Table Topics", desc: "Members and guests practice impromptu speaking by answering unscripted questions." },
+    { time: "1:30 PM", title: "Welcome & Opening", desc: "The Sergeant at Arms calls the meeting to order, followed by the President's welcome." },
+    { time: "1:45 PM", title: "Gavelier Introduction", desc: "The Gavelier of the Day takes control, introducing the meeting's theme and the JIG(Joke Master, Idiom Master, Greeter) team." },
+    { time: "1:55 PM", title: "Evaluation Team Introduction", desc: "GOTD hands control to General Evaluator, General Evaluator introduces TAG(Timer, Ah Counter, Grammarian) team and to give back control again to the Gavelier of the Day" },
+    { time: "2:00 PM", title: "Prepared Speeches", desc: "Gavelier of the Day invites Members to deliver their prepared speeches from their specific manuals" },
+    { time: "2:35 AM", title: "Table Topics", desc: "Members and guests practice impromptu speaking by answering unscripted questions." },
     { time: "11:20 AM", title: "Evaluations", desc: "Constructive feedback is provided to the prepared speakers to help them improve." },
     { time: "11:45 AM", title: "General Evaluation", desc: "Reports from the Timer, Grammarian, and Ah-Counter, followed by an overall meeting assessment." },
     { time: "11:55 AM", title: "Awards & Closing", desc: "Voting results announced, ribbons awarded, and final announcements before adjournment." }
