@@ -39,9 +39,9 @@ function Contact() {
                   /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "text-muted-foreground mt-1", children: [
                     "Main Hall, Community Center",
                     /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                    "Synergy Academy",
+                    "Synergy Speakers Club",
                     /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-                    "(Every Saturday, 10:00 AM)"
+                    "(Every Fortnight Sunday, 1:30 PM)"
                   ] })
                 ] })
               ] })
