@@ -1,3 +1,4 @@
+
 import { j as jsxRuntimeExports, a as reactExports } from "./vendor-react-Cy-bInuY.js";
 import { a0 as Link, a1 as ArrowRight, a2 as Award, a3 as CircleCheck, a4 as Users, a5 as BookOpen, a6 as Mic, a7 as Trophy, a8 as Star, a9 as X } from "./vendor-ui-WQAzzLgx.js";
 import { m as motion } from "./vendor-motion-jxuqwld2.js";
@@ -433,7 +434,7 @@ function Home() {
       ] }) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "container relative z-10 mx-auto px-4 md:px-6 lg:px-8 text-center", children: /* @__PURE__ */ jsxRuntimeExports.jsxs(FadeIn, { children: [
         /* @__PURE__ */ jsxRuntimeExports.jsx("h2", { className: "text-3xl md:text-5xl font-bold text-white mb-6", children: "Ready to Find Your Voice?" }),
-        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-xl text-white/90 mb-10 max-w-2xl mx-auto", children: "Join us this Saturday as a guest. Experience the supportive environment of Synergy Speakers Club firsthand." }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-xl text-white/90 mb-10 max-w-2xl mx-auto", children: "Join us this Sunday as a guest. Experience the warm, welcoming, and professional environment of Synergy Speakers Club firsthand." }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs(
           Link,
           {
