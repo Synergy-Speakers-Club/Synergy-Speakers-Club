@@ -382,8 +382,8 @@ function Layout({ children }) {
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "md:col-span-4 lg:col-span-3", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-accent font-bold text-lg mb-4", children: "Visit Us" }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("address", { className: "not-italic text-secondary/80 text-sm space-y-2", children: [
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("strong", { children: "Every Saturday" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: "10:00 AM – 12:00 PM" }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("strong", { children: "Every Sunday" }) }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: "1:30 PM – 4:30 PM" }),
             /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "pt-2", children: [
               "Main Hall, Community Center",
               /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
