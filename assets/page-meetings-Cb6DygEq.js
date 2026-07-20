@@ -7,10 +7,12 @@ function Meetings() {
     { time: "1:45 PM", title: "Gavelier Introduction", desc: "The Gavelier of the Day takes control, introducing the meeting's theme and the JIG(Joke Master, Idiom Master, Greeter) team." },
     { time: "1:55 PM", title: "Evaluation Team Introduction", desc: "GOTD hands control to General Evaluator, General Evaluator introduces TAG(Timer, Ah Counter, Grammarian) team and to give back control again to the Gavelier of the Day" },
     { time: "2:00 PM", title: "Prepared Speeches", desc: "Gavelier of the Day invites Members to deliver their prepared speeches from their specific manuals" },
-    { time: "2:35 AM", title: "Table Topics", desc: "Members and guests practice impromptu speaking by answering unscripted questions." },
-    { time: "11:20 AM", title: "Evaluations", desc: "Constructive feedback is provided to the prepared speakers to help them improve." },
-    { time: "11:45 AM", title: "General Evaluation", desc: "Reports from the Timer, Grammarian, and Ah-Counter, followed by an overall meeting assessment." },
-    { time: "11:55 AM", title: "Awards & Closing", desc: "Voting results announced, ribbons awarded, and final announcements before adjournment." }
+    { time: "2:35 PM", title: "Table Topics", desc: " Gavelier of the Day hands over control to Tables Topics Master(TTM), TTM invites members and guests onto stage to let them practice impromptu speaking by answering unscripted questions." },
+    { time: "2:35 PM", title: "Snacks Break", desc: "Having a short break by having some tasty snacks." },
+    { time: "2:55 PM", title: "Evaluations", desc: "GE conducts the Evaluation Session" },
+    { time: "3:10 PM", title: "General Evaluation", desc: "Reports from the General Evaluator giving the meeting an overall assessment." },
+    { time: "3:40 PM", title: "Mixed Bag Session", desc: "GOTD conducts the Mixed Bag Session which will consist of three interactive roles played three gaveliers" },
+    { time: ":55 PM", title: "Awards & Closing", desc: "Presiding Officer distributes Certificates, and gives some final announcements before adjournment." }
   ];
   const roles = [
     { icon: MicVocal, name: "Gavelier of the Day", desc: "Acts as the meeting's host and director. Develops organization, time management, and public speaking skills." },
