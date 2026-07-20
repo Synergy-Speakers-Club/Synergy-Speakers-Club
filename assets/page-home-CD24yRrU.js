@@ -57,7 +57,7 @@ const excomTeam = [
     color: "bg-primary",
     bio: [
       "Hi there, I'm Aarav and I love speaking to and meeting new people, hope to see you around the club",
-      "Past Vice President of Membership, managing the club's social media accounts, got the oppurtunity to be the create this website for Synergy Speakers Club."
+      "Was the Vice President of Membership of Synergy Speakers Club from January 2026 till June 2026, managing the club's social media accounts, got the oppurtunity to be the create this website for Synergy Speakers Club."
     ]
   },
   {
