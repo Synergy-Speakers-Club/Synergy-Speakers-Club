@@ -28,7 +28,7 @@ function Contact() {
                 /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "bg-primary/10 p-4 rounded-full", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Mail, { className: "w-6 h-6 text-primary" }) }),
                 /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "pt-1", children: [
                   /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "font-bold text-primary text-lg", children: "Email Us" }),
-                  /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "mailto:synergyspeakersclub@email.com", className: "text-muted-foreground hover:text-accent transition-colors block mt-1", children: "synergyspeakersclub@email.com" }),
+                  /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "mailto:synergyspeakersclub1@gmail.com", className: "text-muted-foreground hover:text-accent transition-colors block mt-1", children: "synergyspeakersclub1@gmail.com" }),
                   /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-sm text-muted-foreground mt-1", children: "We aim to respond within 48 hours." })
                 ] })
               ] }),
@@ -52,7 +52,7 @@ function Contact() {
               /* @__PURE__ */ jsxRuntimeExports.jsx(CircleAlert, { className: "w-5 h-5" }),
               " Important Note"
             ] }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground text-sm leading-relaxed", children: "Synergy Speakers Club is an in-person Gavel Club. We do not offer virtual or hybrid meeting options. Members are required to attend physical meetings to fulfill the requirements of the program." })
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground text-sm leading-relaxed", children: "Synergy Speakers Club is an in-person Gavel Club. We do not offer virtual or hybrid meeting options. All Members and Guests are required to attend physical meetings to fulfill the requirements of the program." })
           ] }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "rounded-2xl overflow-hidden shadow-lg border border-border h-64 relative hidden md:block", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx(
