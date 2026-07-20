@@ -52,12 +52,12 @@ const excomTeam = [
   {
     name: "Aarav",
     role: "President",
-    photo: "Aarav.jpg",
+    photo: "Aarav.png",
     initials: "A",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Aarav here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there, I'm Aarav and I love speaking to and meeting new people, hope to see you around the club",
+      "Past Vice President of Membership, manaing the club's social media accounts, got the oppurtunity to be the create this website for Synergy Speakers Club."
     ]
   },
   {
@@ -67,8 +67,8 @@ const excomTeam = [
     initials: "V",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Vikesh here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -78,8 +78,8 @@ const excomTeam = [
     initials: "S",
     color: "bg-destructive",
     bio: [
-      "Add a short introduction about Siddharth here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -89,8 +89,8 @@ const excomTeam = [
     initials: "L",
     color: "bg-destructive",
     bio: [
-      "Add a short introduction about Letheesh here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -100,8 +100,8 @@ const excomTeam = [
     initials: "Sn",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Snehithram here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -111,8 +111,8 @@ const excomTeam = [
     initials: "Sa",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Saindhavi here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -122,8 +122,8 @@ const excomTeam = [
     initials: "An",
     color: "bg-destructive",
     bio: [
-      "Add a short introduction about Anirudh here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -133,8 +133,8 @@ const excomTeam = [
     initials: "Z",
     color: "bg-destructive",
     bio: [
-      "Add a short introduction about Zayn here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -144,8 +144,8 @@ const excomTeam = [
     initials: "T",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Thiya here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -155,8 +155,8 @@ const excomTeam = [
     initials: "G",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Gurucharan here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -166,8 +166,8 @@ const excomTeam = [
     initials: "As",
     color: "bg-destructive",
     bio: [
-      "Add a short introduction about Aswant here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -177,8 +177,8 @@ const excomTeam = [
     initials: "SM",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Siddharth M.T here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -188,8 +188,8 @@ const excomTeam = [
     initials: "I",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Ikhlas here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   },
   {
@@ -199,8 +199,8 @@ const excomTeam = [
     initials: "TK",
     color: "bg-primary",
     bio: [
-      "Add a short introduction about Taran Kishore here.",
-      "You can write a second paragraph about their achievements or role in the club."
+      "Hi there",
+      ""
     ]
   }
 ];
