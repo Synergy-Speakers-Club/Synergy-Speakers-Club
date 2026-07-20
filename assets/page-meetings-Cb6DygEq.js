@@ -13,7 +13,7 @@ function Meetings() {
     { time: "11:55 AM", title: "Awards & Closing", desc: "Voting results announced, ribbons awarded, and final announcements before adjournment." }
   ];
   const roles = [
-    { icon: MicVocal, name: "Toastmaster of the Day", desc: "Acts as the meeting's host and director. Develops organization, time management, and public speaking skills." },
+    { icon: MicVocal, name: "Gavelier of the Day", desc: "Acts as the meeting's host and director. Develops organization, time management, and public speaking skills." },
     { icon: Timer, name: "Timer", desc: "Monitors the time of all meeting segments. Teaches the importance of concise communication." },
     { icon: FilePenLine, name: "Grammarian & Ah-Counter", desc: "Introduces the Word of the Day, notes excellent use of language, and tracks filler words (ums, ahs)." },
     { icon: Brain, name: "Table Topics Master", desc: "Prepares and issues impromptu speaking prompts. Develops preparation and facilitation skills." },
