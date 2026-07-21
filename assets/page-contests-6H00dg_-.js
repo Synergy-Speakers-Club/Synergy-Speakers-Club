@@ -9,12 +9,18 @@ const contests = [
     tagline: "Craft a speech that moves the world.",
     color: "bg-primary",
     duration: "5–7 minutes",
-    level: "Club",
+    level: "Club → Area → Division → District",
     description: "The flagship contest of the Toastmasters year. Members prepare and deliver an original speech on any topic they are passionate about. This contest is your chance to share a message that truly matters to you.",
     whatToDo: [
       "Prepare an original speech (5–7 minutes) on any topic",
       "No props, notes, or visual aids allowed",
       "Speech must not have been used to win a previous contest"
+    ],
+    tips: [
+      "Tell a personal story — it creates an instant connection",
+      "Rehearse until you can deliver without thinking about words",
+      "Your opening 30 seconds set the tone — make them unforgettable"
+    ]
   },
   {
     id: 2,
@@ -23,28 +29,98 @@ const contests = [
     tagline: "Show how well you listen and lead.",
     color: "bg-destructive",
     duration: "2–3 minutes",
-    level: "Club",
+    level: "Club → Area → Division → District",
     description: "Contestants evaluate the same test speaker and are judged on the quality, balance, and delivery of their feedback. A great evaluator can change a speaker's life — this contest celebrates that skill.",
     whatToDo: [
       "Listen to a 5–7 minute test speech (same for all contestants)",
       "Deliver a 2–3 minute evaluation covering strengths and improvements",
       "Judged on content, organisation, and delivery"
+    ],
+    tips: [
+      "Be specific — 'great energy' is weak, 'your pause after the question was powerful' is strong",
+      "Balance praise and improvement equally",
+      "Make your recommendation actionable, not vague"
     ]
   },
   {
     id: 3,
+    icon: /* @__PURE__ */ jsxRuntimeExports.jsx(Laugh, { className: "w-7 h-7" }),
+    title: "Humorous Speech Contest",
+    tagline: "Make the room roar with laughter.",
+    color: "bg-primary",
+    duration: "5–7 minutes",
+    level: "Club → Area → Division → District",
+    description: "One of the most beloved contests in the Toastmasters calendar. Members deliver a humorous speech that entertains and delights the audience. Timing, originality, and authentic humour are the keys to winning.",
+    whatToDo: [
+      "Prepare an original humorous speech (5–7 minutes)",
+      "All content must be original — no borrowed jokes",
+      "The speech should have a theme or point, not just a string of jokes"
+    ],
+    tips: [
+      "Self-deprecating humour almost always lands well",
+      "Pause after punchlines to let laughter breathe",
+      "The funniest stories are usually true ones"
+    ]
+  },
+  {
+    id: 4,
     icon: /* @__PURE__ */ jsxRuntimeExports.jsx(MessageSquare, { className: "w-7 h-7" }),
     title: "Table Topics Contest",
     tagline: "Think fast. Speak well. Win big.",
     color: "bg-destructive",
     duration: "1–2 minutes",
-    level: "Club",
+    level: "Club → Area → Division → District",
     description: "The ultimate test of impromptu speaking. Each contestant is given a random topic moments before speaking and must deliver a structured, compelling response on the spot. No preparation allowed.",
     whatToDo: [
       "You receive your topic at the lectern — no advance notice",
       "Speak for 1 minute minimum, 2 minutes maximum",
       "Judged on organisation, delivery, and how well you address the topic"
     ],
+    tips: [
+      "Use the PREP format: Point, Reason, Example, Point",
+      "Never say 'I don't know much about this' — just dive in confidently",
+      "End with a clear statement — don't just trail off"
+    ]
+  },
+  {
+    id: 5,
+    icon: /* @__PURE__ */ jsxRuntimeExports.jsx(Mic, { className: "w-7 h-7" }),
+    title: "Tall Tales Contest",
+    tagline: "Spin the most gloriously wild story.",
+    color: "bg-primary",
+    duration: "3–5 minutes",
+    level: "Club → Area",
+    description: "A uniquely fun contest where the goal is to tell the most entertaining, wildly exaggerated, and creatively absurd story possible. Imagination is your only limit — the taller the tale, the better.",
+    whatToDo: [
+      "Deliver an original tall tale (3–5 minutes)",
+      "The story must be obviously fictional and exaggerated",
+      "Judged on humour, creativity, and storytelling craft"
+    ],
+    tips: [
+      "Start with something believable, then go completely off the rails",
+      "Physical gestures and voices for characters make the story pop",
+      "The most ridiculous detail is usually your best punchline"
+    ]
+  },
+  {
+    id: 6,
+    icon: /* @__PURE__ */ jsxRuntimeExports.jsx(Star, { className: "w-7 h-7" }),
+    title: "Best Speaker of the Year",
+    tagline: "The club's highest speaking honour.",
+    color: "bg-destructive",
+    duration: "Awarded annually",
+    level: "Club only",
+    description: "Awarded at the end of each Gavel Club year to the member who has shown the most outstanding growth, consistency, and excellence in public speaking throughout the year. This is the most prestigious internal recognition.",
+    whatToDo: [
+      "No single contest — judged on performance across the full year",
+      "Attendance, improvement, and contribution are all considered",
+      "Winner announced at the Annual Closing Ceremony"
+    ],
+    tips: [
+      "Show up consistently — presence matters more than perfection",
+      "Volunteer for roles outside your comfort zone",
+      "Support fellow members; leadership is part of the assessment"
+    ]
   }
 ];
 function Contests() {
