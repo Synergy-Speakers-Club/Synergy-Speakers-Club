@@ -36,22 +36,22 @@ function Meetings() {
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-start gap-4", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "bg-primary/10 p-3 rounded-xl", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Calendar, { className: "w-6 h-6 text-primary" }) }),
             /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
-              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: "Every Saturday" }),
-              /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground", children: "Join us consistently to build momentum in your speaking journey." })
+              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: "Every Fortnight Sunday" }),
+              /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground", children: "Find your voice and grow with us, visit our next meeting!." })
             ] })
           ] }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-start gap-4", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "bg-primary/10 p-3 rounded-xl", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Clock, { className: "w-6 h-6 text-primary" }) }),
             /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
-              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: "10:00 AM – 12:00 PM" }),
-              /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground", children: "Please arrive 10 minutes early to sign in and get seated." })
+              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: "1.30: PM – 4.30 PM" }),
+              /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground", children: "Please arrive 10 to 15 minutes early to get an introduction of the club and get seated." })
             ] })
           ] }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-start gap-4", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "bg-primary/10 p-3 rounded-xl", children: /* @__PURE__ */ jsxRuntimeExports.jsx(MapPin, { className: "w-6 h-6 text-primary" }) }),
             /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
-              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: "Main Hall, Community Center" }),
-              /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground mb-2", children: "Synergy Academy Campus" }),
+              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: " Top Floor, Tanishq Jewellery, Chennai, Anna Nagar" }),
+              /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground mb-2", children: "Synergy Speakers Club" }),
               /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "inline-block px-3 py-1 bg-destructive/10 text-destructive text-sm font-semibold rounded-full", children: "In-Person Only" })
             ] })
           ] })
