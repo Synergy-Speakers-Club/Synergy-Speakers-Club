@@ -67,7 +67,7 @@ const excomTeam = [
     initials: "V",
     color: "bg-primary",
     bio: [
-      "Hi there, I'm Vikesh! I joined our Gavel Club in early 2024, and since then it has been an incredible journey of learning, growth, and leadership. What started as a step outside my comfort zone has helped me develop confidence, communication, and lifelong friendships.",
+      "Hi there, I'm Vikesh! I joined our Gavel Club in early 2023, and since then it has been an incredible journey of learning, growth, and leadership. What started as a step outside my comfort zone has helped me develop confidence, communication, and lifelong friendships.",
       "I'm currently serving as the President of our Gavel Club, and I'm grateful for the opportunity to give back to the club that has shaped me. I look forward to meeting new members and helping them begin their own journey of growth. Hope to see you at one of our meetings!"
     ]
   },
