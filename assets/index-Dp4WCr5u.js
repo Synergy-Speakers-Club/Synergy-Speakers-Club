@@ -384,11 +384,16 @@ function Layout({ children }) {
           /* @__PURE__ */ jsxRuntimeExports.jsxs("address", { className: "not-italic text-secondary/80 text-sm space-y-2", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("strong", { children: "Every Fornight Sunday" }) }),
             /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: "1:30 PM – 4:30 PM" }),
-            /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "pt-2", children: [
-              "4th Floor, Tanishq Jewellery, Anna Nagar, Chennai",
-              /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-              "Synergy Speakers Club"
-            ] }),
+           /* @__PURE__ */ jsxRuntimeExports.jsx("a", { 
+    href: "https://maps.app.goo.gl/bCbtcAQPd8b2SWn7A", 
+    target: "_blank", 
+    rel: "noopener noreferrer", 
+    className: "underline hover:text-accent transition-colors", 
+    children: [
+        "4th Floor, Tanishq Jewellery, Anna Nagar, Chennai",
+        /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
+        "Synergy Academy"
+    ] }),
             /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pt-2", children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "mailto:synergyspeakersclub@email.com", className: "hover:text-accent transition-colors", children: "synergyspeakersclub@email.com" }) })
           ] })
         ] })
