@@ -392,7 +392,7 @@ function Layout({ children }) {
     children: [
         "4th Floor, Tanishq Jewellery, Anna Nagar, Chennai",
         /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-        "Synergy Academy"
+        "Synergy Speakers Club"
     ] }),
             /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pt-2", children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "mailto:synergyspeakersclub@email.com", className: "hover:text-accent transition-colors", children: "synergyspeakersclub@email.com" }) })
           ] })
