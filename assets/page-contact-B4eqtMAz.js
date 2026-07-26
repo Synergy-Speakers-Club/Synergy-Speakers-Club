@@ -37,7 +37,7 @@ function Contact() {
                 /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "pt-1", children: [
                   /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "font-bold text-primary text-lg", children: "Meeting Location" }),
                   /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "text-muted-foreground mt-1", children: [
-                    "Main Hall, Community Center",
+                    "4th Floor, Tanshiq, Anna Nagar Roundana",
                     /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
                     "Synergy Speakers Club",
                     /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
