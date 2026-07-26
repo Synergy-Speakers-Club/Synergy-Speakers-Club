@@ -400,7 +400,7 @@ function Layout({ children }) {
       ] }),
       /* @__PURE__ */ jsxRuntimeExports.jsx("hr", { className: "border-white/10 mb-8" }),
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex flex-col gap-4 text-center items-center", children: [
-        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-secondary/60 text-xs max-w-4xl mx-auto leading-relaxed uppercase tracking-wider font-semibold", children: "The information on this website is for the sole use of Toastmasters' members for Toastmasters business only. It is not to be used for solicitation and distribution of non-Toastmasters material or information." }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-secondary/60 text-xs max-w-4xl mx-auto leading-relaxed uppercase tracking-wider font-semibold", children: "The information on this website is for the sole use of Gaveliers and Guests of Synergy Speakers Club present in 4th Floor, Tanishq Jewellery Anna Nagar Chennai only." }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "text-secondary/50 text-xs", children: [
           "© ",
           (/* @__PURE__ */ new Date()).getFullYear(),
