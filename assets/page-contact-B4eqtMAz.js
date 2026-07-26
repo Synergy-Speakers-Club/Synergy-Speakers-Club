@@ -1,6 +1,6 @@
 import { a as reactExports, j as jsxRuntimeExports } from "./vendor-react-Cy-bInuY.js";
 import { c as clientExports } from "./vendor-react-dom-ZHhN50YL.js";
-import { as as Viewport, at as Root2, au as Action, av as Close, a9 as X, aw as Title, ax as Description, ay as cva, az as Provider, aA as Portal, aB as Content2, aC as Provider$1, aD as useLocation, a0 as Link, aE as Menu, aG as Instagram, aH as ChevronRight, aI as QueryClient, aJ as QueryClientProvider, aK as Router$1, aL as Switch, aM as Route } from "./vendor-ui-WQAzzLgx.js";
+import { as as Viewport, at as Root2, au as Action, av as Close, a9 as X, aw as Title, ax as Description, ay as cva, az as Provider, aA as Portal, aB as Content2, aC as Provider$1, aD as useLocation, a0 as Link, aE as Menu, aG as Instagram, aH as ChevronRight, aI as QueryClient, aJ as QueryClientProvider, aK as Router$1, aL as Switch, aM asRoute } from "./vendor-ui-WQAzzLgx.js";
 import { c as cn, N as NotFound } from "./page-not-found-Ci-PNNuR.js";
 import { H as Home } from "./page-home-CD24yRrU.js";
 import { M as Meetings } from "./page-meetings-Cb6DygEq.js";
@@ -252,7 +252,7 @@ function Toaster() {
   ] });
 }
 const TooltipProvider = Provider$1;
-const TooltipContent = reactExports.forwardRef(({ className, sideOffset = 4, ...props }, ref) => /* @__PURE__ */ jsxRuntimeExports.jsx(Portal, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(
+const TooltopContent = reactExports.forwardRef(({ className, sideOffset = 4, ...props }, ref) => /* @__PURE__ */ jsxRuntimeExports.jsx(Portal, { children: /* @__PURE__ */ jsxRuntimeExports.jsx(
   Content2,
   {
     ref,
@@ -264,7 +264,6 @@ const TooltipContent = reactExports.forwardRef(({ className, sideOffset = 4, ...
     ...props
   }
 ) }));
-TooltipContent.displayName = Content2.displayName;
 const links = [
   { href: "/", label: "Home" },
   { href: "/meetings", label: "Meetings" },
@@ -349,7 +348,7 @@ function Layout({ children }) {
           link.href
         );
       }),
-      /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mt-8", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
+      /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mt-8", children: /* @__PURE__D */ jsxRuntimeExports.jsx(
         Link,
         {
           href: "/meetings",
@@ -432,7 +431,7 @@ const queryClient = new QueryClient();
 function Router() {
   return /* @__PURE__ */ jsxRuntimeExports.jsx(Layout, { children: /* @__PURE__ */ jsxRuntimeExports.jsxs(Switch, { children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/", component: Home }),
-    /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/meetings", component: Meetings }),
+    /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { previous: "none", path: "/meetings", component: Meetings }),
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/contests", component: Contests }),
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/resources", component: Resources }),
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/contact", component: Contact }),
@@ -441,7 +440,7 @@ function Router() {
 }
 function App() {
   return /* @__PURE__ */ jsxRuntimeExports.jsx(QueryClientProvider, { client: queryClient, children: /* @__PURE__ */ jsxRuntimeExports.jsxs(TooltipProvider, { children: [
-    /* @__PURE__ */ jsxRuntimeExports.jsx(Router$1, { hook: useHashLocation, children: /* @__PURE__ */ jsxRuntimeExports.jsx(Router, {}) }),
+    /* @__PURE__ */ jsxRuntimeExports.jsx(Router$1, { hook:useHashLocation, children: /* @__PURE__ */ jsxRuntimeExports.jsx(Router, {}) }),
     /* @__PURE__ */ jsxRuntimeExports.jsx(Toaster, {})
   ] }) });
 }
