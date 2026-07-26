@@ -17,8 +17,8 @@ function Meetings() {
   ];
   const roles = [
     { icon: MicVocal, name: "Gavelier of the Day", desc: "Acts as the meeting's host and director. Develops organization, time management, and public speaking skills." },
-    { icon: Timer, name: "Timer", desc: "Monitors the time of all meeting segments. Teaches the importance of concise communication." },
-    { icon: FilePenLine, name: "Grammarian & Ah-Counter", desc: "Introduces the Word of the Day, notes excellent use of language, and tracks filler words (ums, ahs)." },
+    { icon: Timer, name: "TAG Team", desc: "The TAG team (Timer, Ah-Counter, and Grammarian) tracks, records, and reports on time, filler words, and language usage during a meeting. " },
+    { icon: FilePenLine, name: "JIG Team and Presiding Officer", desc: "The JIG team (Joke Master, Idiom Master, and Greeter) energizes the room with humor, introduces the word or phrase of the day, and welcomes members and guests to the meeting, Presiding Officer is the person who opens and closes every meeting, introduce the Gavelier of the Day " },
     { icon: Brain, name: "Table Topics Master", desc: "Prepares and issues impromptu speaking prompts. Develops preparation and facilitation skills." },
     { icon: Users, name: "Speaker", desc: "Prepares and delivers a speech based on a specific manual project objective." },
     { icon: CircleCheck, name: "Evaluator", desc: "Provides verbal and written feedback to a speaker. Develops critical listening and constructive feedback skills." }
