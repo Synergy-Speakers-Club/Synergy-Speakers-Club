@@ -10,16 +10,14 @@ const contests = [
     color: "bg-primary",
     duration: "5–7 minutes",
     level: "Club → Area → Division → District",
-    description: "The flagship contest of the Toastmasters year. Members prepare and deliver an original speech on any topic they are passionate about. This contest is your chance to share a message that truly matters to you.",
+    description: "",
     whatToDo: [
       "Prepare an original speech (5–7 minutes) on any topic",
       "No props, notes, or visual aids allowed",
       "Speech must not have been used to win a previous contest"
     ],
     tips: [
-      "Tell a personal story — it creates an instant connection",
-      "Rehearse until you can deliver without thinking about words",
-      "Your opening 30 seconds set the tone — make them unforgettable"
+      ""
     ]
   },
   {
@@ -30,16 +28,14 @@ const contests = [
     color: "bg-destructive",
     duration: "2–3 minutes",
     level: "Club → Area → Division → District",
-    description: "Contestants evaluate the same test speaker and are judged on the quality, balance, and delivery of their feedback. A great evaluator can change a speaker's life — this contest celebrates that skill.",
+    description: "",
     whatToDo: [
       "Listen to a 5–7 minute test speech (same for all contestants)",
       "Deliver a 2–3 minute evaluation covering strengths and improvements",
       "Judged on content, organisation, and delivery"
     ],
     tips: [
-      "Be specific — 'great energy' is weak, 'your pause after the question was powerful' is strong",
-      "Balance praise and improvement equally",
-      "Make your recommendation actionable, not vague"
+      ""
     ]
   },
   {
@@ -57,9 +53,7 @@ const contests = [
       "The speech should have a theme or point, not just a string of jokes"
     ],
     tips: [
-      "Self-deprecating humour almost always lands well",
-      "Pause after punchlines to let laughter breathe",
-      "The funniest stories are usually true ones"
+      ""
     ]
   },
   {
@@ -70,16 +64,15 @@ const contests = [
     color: "bg-destructive",
     duration: "1–2 minutes",
     level: "Club → Area → Division → District",
-    description: "The ultimate test of impromptu speaking. Each contestant is given a random topic moments before speaking and must deliver a structured, compelling response on the spot. No preparation allowed.",
+    description: "",
     whatToDo: [
       "You receive your topic at the lectern — no advance notice",
+      "The ultimate test of impromptu speaking. You will be given given a random topic moments before speaking and must deliver a structured, compelling response on the spot. No preparation allowed.",
       "Speak for 1 minute minimum, 2 minutes maximum",
       "Judged on organisation, delivery, and how well you address the topic"
     ],
     tips: [
-      "Use the PREP format: Point, Reason, Example, Point",
-      "Never say 'I don't know much about this' — just dive in confidently",
-      "End with a clear statement — don't just trail off"
+      ""
     ]
   },
   {
