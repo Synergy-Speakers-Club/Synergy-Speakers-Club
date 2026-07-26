@@ -331,10 +331,16 @@ function Home() {
             tag: "Seasonal"
           },
           {
+            icon: /* @__PURE__ */ jsxRuntimeExports.jsx(Mic, { className: "w-6 h-6" }),
+            title: "Joint Meeting",
+            desc: "A joint meeting in Toastmasters is a collaborative gathering where two or more neighbouring clubs unite to share their knowledge, to have wider perspective, oppurtunity to speaker infront a larger audiences, and vibrant networking energy",
+            tag: "Seasonal"
+          },
+          {
             icon: /* @__PURE__ */ jsxRuntimeExports.jsx(Star, { className: "w-6 h-6" }),
-            title: "Special Meeting",
-            desc: "Themed or milestone sessions — including induction ceremonies, year-end galas, workshops, and guest speaker events that bring the community together.",
-            tag: "Occasional"
+            title: "Outdoor Meeting",
+            desc: "An outdoor meeting is a special open-air gathering where members leave their regular indoors venue for a outdoor venue to practice public speaking amidst natural surroundings and real-world background noise. ",
+            tag: "Seasonal"
           }
         ].map((item) => /* @__PURE__ */ jsxRuntimeExports.jsxs(
           "div",
