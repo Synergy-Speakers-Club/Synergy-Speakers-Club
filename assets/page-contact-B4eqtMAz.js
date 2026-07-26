@@ -286,7 +286,7 @@ function Layout({ children }) {
   reactExports.useEffect(() => {
     setMobileMenuOpen(false);
   }, [location]);
-  return /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "min-h-[100dvh] flex flex-col font-sans", children: [
+  return /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "min-h-[100dvh] flex flex-col font-sans bg-background text-foreground", children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx(
       "header",
       {
@@ -380,22 +380,22 @@ function Layout({ children }) {
           /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-accent font-bold text-lg mb-4", children: "Visit Us" }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("address", { className: "not-italic text-secondary/80 text-sm space-y-2", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("strong", { children: "Every Fornight Sunday" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pb-2", children: "1:30 PM – 4:30 PM" }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("strong", { children: "Contact Us" }) }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pb-1", children: "1:30 PM – 4:30 PM" }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("a", { 
+              href: "https://maps.app.goo.gl/bCbtcAQPd8b2SWn7A", 
+              target: "_blank", 
+              rel: "noopener noreferrer", 
+              className: "underline hover:text-accent transition-colors block mb-2", 
+              children: [
+                "4th Floor, Tanishq Jewellery, Anna Nagar, Chennai",
+                /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
+                "Synergy Speakers Club"
+            ] }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pt-1 font-semibold text-accent", children: "Contact Us:" }),
             /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "mailto:synergyspeakersclub@email.com", className: "hover:text-accent transition-colors", children: "synergyspeakersclub@email.com" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pt-1", children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "tel:+91944416762", className: "hover:text-accent transition-colors", children: "+91 94441 6762 (DTM Mythili mam)" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pt-1", children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "tel:+919962021900", className: "hover:text-accent transition-colors", children: "+91 99620 21900 (Aarav Ramesh)" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "pt-1", children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "tel:+919841316760", className: "hover:text-accent transition-colors", children: "+91 98413 16760 (Vikesh R Murugesan)" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "pt-3", children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { 
-    href: "https://maps.app.goo.gl/bCbtcAQPd8b2SWn7A", 
-    target: "_blank", 
-    rel: "noopener noreferrer", 
-    className: "underline hover:text-accent transition-colors block", 
-    children: [
-        "4th Floor, Tanishq Jewellery, Anna Nagar, Chennai",
-        /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-        "Synergy Speakers Club"
-    ] }) })
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "tel:+91944416762", className: "hover:text-accent transition-colors", children: "+91 94441 6762 (DTM Mythili mam)" }) }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "tel:+919962021900", className: "hover:text-accent transition-colors", children: "+91 99620 21900 (Aarav Ramesh)" }) }),
+            /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "tel:+919841316760", className: "hover:text-accent transition-colors", children: "+91 98413 16760 (Vikesh R Murugesan)" }) })
           ] })
         ] })
       ] }),
