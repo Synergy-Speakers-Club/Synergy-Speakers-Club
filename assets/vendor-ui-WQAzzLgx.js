@@ -7352,13 +7352,6 @@ const __iconNode$1 = [
   ["path", { d: "M22 21v-2a4 4 0 0 0-3-3.87", key: "kshegd" }],
   ["circle", { cx: "9", cy: "7", r: "4", key: "nufk8" }]
 ];
-const Gavel = createLucideIcon("gavel", __iconNode$10)
-const __iconNode$10 = [
-  ["path", { d: "m14 13-5 5 6 6 5-5-6-6Z", key: "g4v1" }],
-  ["path", { d: "m16 11 4.5-4.5a3.5 3.5 0 0 0-5-5L11 6", key: "g4v2" }],
-  ["path", { d: "m3 21 6-6", key: "g4v3" }],
-  ["path", { d: "m15 2 6 6", key: "g4v4" }]
-];
 const Users = createLucideIcon("users", __iconNode$1);
 const __iconNode = [
   ["path", { d: "M18 6 6 18", key: "1bl5f8" }],
@@ -16912,5 +16905,4 @@ export {
   frameData as x,
   frame as y,
   pipe as z
-  Gavel as z1
 };
