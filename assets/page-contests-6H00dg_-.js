@@ -85,41 +85,33 @@ const contests = [
   {
     id: 5,
     icon: /* @__PURE__ */ jsxRuntimeExports.jsx(Mic, { className: "w-7 h-7" }),
-    title: "Tall Tales Contest",
-    tagline: "Spin the most gloriously wild story.",
+    title: "Coming up soon",
+    tagline: " ",
     color: "bg-primary",
-    duration: "3–5 minutes",
-    level: "Club → Area",
-    description: "A uniquely fun contest where the goal is to tell the most entertaining, wildly exaggerated, and creatively absurd story possible. Imagination is your only limit — the taller the tale, the better.",
+    duration: " ",
+    level: " ",
+    description: " ",
     whatToDo: [
-      "Deliver an original tall tale (3–5 minutes)",
-      "The story must be obviously fictional and exaggerated",
-      "Judged on humour, creativity, and storytelling craft"
+      " "
     ],
     tips: [
-      "Start with something believable, then go completely off the rails",
-      "Physical gestures and voices for characters make the story pop",
-      "The most ridiculous detail is usually your best punchline"
+      " "
     ]
   },
   {
     id: 6,
     icon: /* @__PURE__ */ jsxRuntimeExports.jsx(Star, { className: "w-7 h-7" }),
-    title: "Best Speaker of the Year",
-    tagline: "The club's highest speaking honour.",
+    title: "Coming up Soon",
+    tagline: " ",
     color: "bg-destructive",
-    duration: "Awarded annually",
-    level: "Club only",
-    description: "Awarded at the end of each Gavel Club year to the member who has shown the most outstanding growth, consistency, and excellence in public speaking throughout the year. This is the most prestigious internal recognition.",
+    duration: " ",
+    level: " ",
+    description: " ",
     whatToDo: [
-      "No single contest — judged on performance across the full year",
-      "Attendance, improvement, and contribution are all considered",
-      "Winner announced at the Annual Closing Ceremony"
+      " "
     ],
     tips: [
-      "Show up consistently — presence matters more than perfection",
-      "Volunteer for roles outside your comfort zone",
-      "Support fellow members; leadership is part of the assessment"
+      " "
     ]
   }
 ];
