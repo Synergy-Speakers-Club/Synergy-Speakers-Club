@@ -50,7 +50,7 @@ function Meetings() {
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-start gap-4", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "bg-primary/10 p-3 rounded-xl", children: /* @__PURE__ */ jsxRuntimeExports.jsx(MapPin, { className: "w-6 h-6 text-primary" }) }),
             /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { children: [
-              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: " Top Floor, Tanishq Jewellery, Chennai, Anna Nagar" }),
+              /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-xl font-bold text-primary mb-1", children: " 4th Floor, Tanishq Jewellery, Anna Nagar, Chennai" }),
               /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-muted-foreground mb-2", children: "Synergy Speakers Club" }),
               /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "inline-block px-3 py-1 bg-destructive/10 text-destructive text-sm font-semibold rounded-full", children: "In-Person Only" })
             ] })
