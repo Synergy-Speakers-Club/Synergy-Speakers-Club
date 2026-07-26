@@ -18,6 +18,7 @@ function Contact() {
               /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "font-bold text-primary text-lg", children: "Contact Us" }),
               /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "mailto:synergyspeakersclub1@gmail.com", className: "text-muted-foreground hover:text-accent transition-colors block mt-1", children: "synergyspeakersclub1@gmail.com" }),
               /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-sm text-muted-foreground mt-1", children: "We aim to respond within 48 hours." }),
+              /* @__PURE__ */ jsxRuntimeExports.jsx("p", { href: "tel:+919962021900", className: "hover:text-accent transition-colors underline", children: "DTM Mythili mam - +91 94441 67262" }),
               /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "text-sm text-muted-foreground mt-2 font-medium", children: [
                 "Club Officers: ",
                 /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "tel:+919962021900", className: "hover:text-accent transition-colors underline", children: "Aarav Ramesh - +91 9962021900" }),
