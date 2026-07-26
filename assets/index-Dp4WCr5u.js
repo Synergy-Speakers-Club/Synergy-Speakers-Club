@@ -367,10 +367,7 @@ function Layout({ children }) {
             /* @__PURE__ */ jsxRuntimeExports.jsx("h2", { className: "text-2xl font-bold text-white m-0", children: "Synergy Speakers" })
           ] }),
           /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-secondary/80 text-sm leading-relaxed max-w-sm", children: "Empowering Young Voices — One Speech at a Time. A Gavel Club affiliated with Toastmasters International, dedicated to developing public speaking and leadership skills in youth." }),
-          /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center gap-3 mt-2", children: [
-            /* @__PURE__ */ jsxRuntimeExports.jsx("button", { className: "bg-white/10 hover:bg-accent hover:text-primary transition-colors p-2.5 rounded-full text-white", "aria-label": "Facebook", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Facebook, { className: "w-4 h-4" }) }),
-            /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "https://www.instagram.com/synergy_speakers_gavels_club/", target: "_blank", rel: "noopener noreferrer", className: "bg-white/10 hover:bg-accent hover:text-primary transition-colors p-2.5 rounded-full text-white inline-flex items-center justify-center", "aria-label": "Instagram", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Instagram, { className: "w-4 h-4" }) })
-          ] })
+          /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "flex items-center gap-3 mt-2", children: /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "https://www.instagram.com/synergy_speakers_gavels_club/", target: "_blank", rel: "noopener noreferrer", className: "bg-white/10 hover:bg-accent hover:text-primary transition-colors p-2.5 rounded-full text-white inline-flex items-center justify-center", "aria-label": "Instagram", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Instagram, { className: "w-4 h-4" }) }) })
         ] }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "md:col-span-3 lg:col-span-2 lg:col-start-7", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("h3", { className: "text-accent font-bold text-lg mb-4", children: "Quick Links" }),
